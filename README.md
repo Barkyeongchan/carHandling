@@ -33,7 +33,7 @@
 
 ° 최초 Raspberry Pi와 Arduino를 활용하여 제작하려 했지만 Raspberry Pi에서 Python 패키지 중 하나인 Mediapipe가 설치되지않아 Window로 변경
 
-° cvzone(https://www.computervision.zone/)에서 Hand Tracking 오픈소스 채용
+° cvzone(https://www.computervision.zone/) 에서 Hand Tracking 오픈소스 채용
 
 ° Serial통신을 사용해 Python과 Arduino를 연결
 
