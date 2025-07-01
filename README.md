@@ -12,9 +12,11 @@
   - 손동작 인식 기반 차량 제어
   - 정지 / 직진 / 좌회전 / 우회전 / 후진 제어
 
-- **시연 사진**
+- **시연**
 
   ![결과물](https://github.com/user-attachments/assets/03240cf1-38a9-455e-a60e-0b090416ca96)
+
+  https://github.com/user-attachments/assets/58c2f4e5-a98c-48de-97ad-e59afe157651
 
 
 ---
