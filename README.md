@@ -1,1 +1,2 @@
-# carHandling
+#openCV를 활용한 손 동작 인식 주행 자동차
+
