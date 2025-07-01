@@ -44,4 +44,4 @@
 
 플로우 차트
 
-
+![Image](https://github.com/user-attachments/assets/d4633cde-a220-4bf4-8c91-dce1a07c4b42)
