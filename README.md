@@ -13,3 +13,7 @@
 
 주요 기능
  - 손동작에 따라 정지, 직진, 좌회전, 우회전, 후진한다.
+
+결과물
+
+![Image](https://github.com/user-attachments/assets/03240cf1-38a9-455e-a60e-0b090416ca96)
